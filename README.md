@@ -7,10 +7,13 @@ A Library Management System (LMS) use case diagram visually represents the inter
 ![UseCaseDiagram1](https://github.com/user-attachments/assets/d8db248f-f638-4c18-9505-329b0bce9c63)
 
 ## ACTIVITY DIAGRAM:
-A Libary Management Sys
+This diagram depicts the Activity diagram of Libary Management System. It starts with entering the library and showing an ID, which is then verified. After verification, the user inquires about a book and searches for it. Upon finding the book, they take it and make an entry in the "take away" register. The final steps involve reading and understanding the book and ensuring it is returned on time. The chart visually organizes each step in sequence to illustrate the library borrowing process.
+
+
 ![ActivityDiagram1](https://github.com/user-attachments/assets/a4fcfa69-ebb0-4812-82e2-16f7e478989d)
 
 ## SEQUENCE DIAGRAM:
+
 ![SequenceDiagram1](https://github.com/user-attachments/assets/ed3da148-2d3c-4670-84a0-3c265eac0c2e)
 
 ## CLASS DIAGRAM:
