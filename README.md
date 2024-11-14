@@ -1,7 +1,14 @@
-
-## LIBRARY MANAGEMENT SYSTEM
-## NAME: KAMALESH S
-## REG NO: 212223040083
+## EX NO:2 Libary-Management-System
+## DATE:
+## AIM:To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
+## PROBLEM STATEMENT:
+To create Hospital Management System software that will meet the needs of the applicant and help them to withdraw money,deposit.
+## SOFTWARE REQUIREMENTS:
+Rational Rose
+SQL 8.0
+## HARDWARE REQUIREMENTS:
+1.512MB RAM
+2.Pentium III Processor
 ## USE CASE DIAGRAM:
 A Library Management System (LMS) use case diagram visually represents the interactions between users and the system's key functionalities. In this diagram, actors like Librarians, Members, and Admins are connected to various use cases, showing the system's operations. Librarians can manage books, members, and lending activities, while members can search for books, borrow, and return them. Admins might have broader privileges, such as managing user roles. This diagram helps clarify the system’s functional requirements, supporting efficient design and implementation.
 ![UseCaseDiagram1](https://github.com/user-attachments/assets/d8db248f-f638-4c18-9505-329b0bce9c63)
