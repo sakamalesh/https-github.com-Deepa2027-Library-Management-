@@ -20,12 +20,27 @@ The Librarian performs ID verification, and once successfully verified, the read
 ![SequenceDiagram1](https://github.com/user-attachments/assets/ed3da148-2d3c-4670-84a0-3c265eac0c2e)
 
 ## CLASS DIAGRAM:
+A class is drawn as rectangle box with three compartments or components separated by horizontal lines. The top compartment
+holds the class name and middle compartment holds the attribute and bottom compartment holds list of operations.
+
 ![Screenshot 2024-10-18 220643](https://github.com/user-attachments/assets/de632a03-f589-4200-ac98-4daab1cae83c)
 
 ## COMMUNICATION DIAGRAM:
+A collaboration diagram is similar to sequence diagram but the message in number format. In a collaboration diagram sequence
+diagram is indicated by the numbering the message. A collaboration diagram, also called a communication diagram or
+interaction diagram, A sophisticated modeling tool can easily convert a collaboration diagram into a sequence diagram and the
+vice versa. A collaboration diagram resembles a flowchart that portrays the roles, functionality and behavior of individual objects
+as well as the overall operation of the system in real time.
+
 ![Screenshot 2024-10-18 220630](https://github.com/user-attachments/assets/fe37cf58-8453-4547-9efe-cc85ae817b49)
 
 ## PACKAGE DIAGRAM:
+A package diagram is represented as a folder shown as a large rectangle with a top attached to its upper left corner. A package
+may contain both sub ordinate package and ordinary model elements. All uml models and diagrams are organized into
+package. A package diagram in unified modeling language that depicts the dependencies between the packages that make up a
+model. A Package Diagram (PD) shows a grouping of elements in the OO model, and is a Cradle extension to UML PDs can be
+used to show groups of classes in Class Diagrams (CDs), groups of components or processes in Component Diagrams (CPDs), or
+groups of processors in Deployment Diagrams (DPDs).
 ![Screenshot 2024-10-18 220658](https://github.com/user-attachments/assets/9b0cf5a6-8bfb-49c6-b292-c23b096030ef)
 
 ## RESULT:
