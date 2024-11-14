@@ -16,11 +16,7 @@ This diagram depicts the Activity diagram of Libary Management System. It starts
 The image shows a sequence diagram illustrating the interaction among three participants: a Reader, a Librarian, and a System Admin, in the process of borrowing a book from a library.
 
 Reader enters the library and shows their ID.
->The Librarian performs ID verification, and once successfully verified, the reader makes an inquiry about a book.
->The Librarian consults the System Admin for guidance, who assists in locating the book.
->The book is then found and given to the reader.
->The reader takes the book, and the librarian makes an entry in the records.
-Finally, the reader is provided with the book and, after reading, returns it to the librarian before exiting the library.
+The Librarian performs ID verification, and once successfully verified, the reader makes an inquiry about a book.The Librarian consults the System Admin for guidance, who assists in locating the book.The book is then found and given to the reader.The reader takes the book, and the librarian makes an entry in the records.Finally, the reader is provided with the book and, after reading, returns it to the librarian before exiting the library.
 ![SequenceDiagram1](https://github.com/user-attachments/assets/ed3da148-2d3c-4670-84a0-3c265eac0c2e)
 
 ## CLASS DIAGRAM:
